@@ -1,5 +1,5 @@
 <?php
-require_once 'universities/university.php';
+include 'universities/university.php';
 
 header('Content-Type: application/json');
 
